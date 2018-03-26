@@ -1,1 +1,0 @@
-# gpii-fluentd-elasticsearch-aws
